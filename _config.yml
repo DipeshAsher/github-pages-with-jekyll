@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Follow my journey of learning GitHub right here!
 
 # social links
-twitter_username: @DipeshAsher # DO NOT include the @ character, or else the build will fail!
+twitter_username: DipeshAsher # DO NOT include the @ character, or else the build will fail!
 github_username:  DipeshAsher # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
